@@ -1,0 +1,8 @@
+.nav{
+    grid-area:inherit;
+    background-color:burlywood;
+}
+.item{
+    color:white;
+}
+
